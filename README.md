@@ -1,3 +1,4 @@
+# AffordanceGrasp
 This is an affordance-based dataset of  simulated parallel-jaw grasps from 6 categories of ShapeNet objects (Mug, Bottle, Hat, Knife, Scissor, Bowl). It was generated based on [ACONYM](https://sites.google.com/nvidia.com/graspdataset) dataset, [3D AffordanceNet](https://github.com/Gorilla-Lab-SCUT/AffordanceNet) and Pybullet simulator. The visulization code is pulled from [acronym_tools](https://github.com/NVlabs/acronym/tree/main).
 
 # Requirements and  Installation (Following acronym_tools)

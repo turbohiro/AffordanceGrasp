@@ -1,4 +1,4 @@
-This is affordance-based dataset of  simulated parallel-jaw grasps from ShapeNet objects. It was generated based on [ACONYM](https://sites.google.com/nvidia.com/graspdataset) dataset and Pybullet simulator.
+This is affordance-based dataset of  simulated parallel-jaw grasps from ShapeNet objects. It was generated based on [ACONYM](https://sites.google.com/nvidia.com/graspdataset) dataset and Pybullet simulator. The visulization code is pulled from [acronym_tools](https://github.com/NVlabs/acronym/tree/main).
 
 # Requirements and  Installation (Following acronym_tools)
 * Python3

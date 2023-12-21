@@ -26,7 +26,7 @@ Successful affordance-based grasps based on a table(filtering those that are in 
 <p align="center">
 
 # TODO
-- [ ] Release code for affordance-based pose generation
+- [ ] Release code for affordance-based pose generation (Maybe create another respository)
 
 
 

@@ -12,14 +12,16 @@ Successful affordance-based grasps. Grasp markers are colored green/red based on
 
 `acronym_visualize_grasps.py --mesh_root /mnt/mydrive/acronym-affordance/data/grasp_data2  /mnt/mydrive/acronym-affordance/data/grasp_data2/grasps/Mug_62634df2ad8f19b87d1b7935311a2ed0_0.02328042176991366.h5`
 
-<a href="url"><img src="https://github.com/turbohiro/AffordanceGrasp/blob/master/data/fig/1.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/turbohiro/AffordanceGrasp/blob/master/data/fig/1.png" align="center" height="360" width="360" ></a>
+
+
 ### Generate Random Scenes and Visualize Grasps
 
 Successful affordance-based grasps based on a table(filtering those that are in collision):
 
 `acronym_generate_scene.py --mesh_root /mnt/mydrive/acronym-affordance/data/grasp_data2 --objects /mnt/mydrive/acronym-affordance/data/grasp_data2/grasps/Mug_128ecbc10df5b05d96eaf1340564a4de_0.0017788254548529554.h5  /mnt/mydrive/acronym-affordance/data/grasp_data2/grasps/Mug_62634df2ad8f19b87d1b7935311a2ed0_0.02328042176991366.h5 --support /mnt/mydrive/acronym-affordance/data/grasp_data2/grasps/Table_99cf659ae2fe4b87b72437fd995483b_0.009700376721042367.h5 --show_grasps`
 
-![alt text](https://github.com/turbohiro/AffordanceGrasp/blob/master/data/fig/scene.png)
+<a href="url"><img src="https://github.com/turbohiro/AffordanceGrasp/blob/master/data/fig/scene.png" align="center" height="360" width="360" ></a>
 
 
 

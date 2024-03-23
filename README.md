@@ -27,7 +27,7 @@ Successful affordance-based grasps based on a table(filtering those that are in 
 <p align="center">
 
 # Grasp generation and visualization
-After finishing different models' training,`python -m demo.mug_robotic`
+After finishing different models' training (folder models/models2),`python -m demo.mug_robotic`
 
 # Acknowledge
 Most of our code are developed based on [6dof-graspnet](https://github.com/jsll/pytorch_6dof-graspnet) and [3D AffordanceNet](https://github.com/Gorilla-Lab-SCUT/AffordanceNet).
